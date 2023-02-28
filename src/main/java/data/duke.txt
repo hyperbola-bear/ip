@@ -1,4 +1,6 @@
 TODO | 0 | yes
-TODO | 1 | no
+TODO | 0 | no
 TODO | 0 | yope
 TODO | 0 | gay
+TODO | 0 | i like me
+DEADLINE | 0 | today i need to beat boys (by: today)
